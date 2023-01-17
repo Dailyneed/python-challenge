@@ -1,0 +1,28 @@
+# Name
+PyBank - Financial Analysis
+
+# Tool
+Python is used to create script "main.py"
+
+# Purpose
+The purpose of the python script "main.py" is to analyze the finanical records of the company. The financial dataset is in Resouces/budget_data.csv. The task is to calculate the followings:
+
+* The total number of months included in the dataset
+* The net total amount of "Profit/Losses" over the entire period
+* The changes in "Profit/Losses" over the entire period, and then the average of those  changes
+* The greatest increase in profits (date and amount) over the entire period
+* The greatest decrease in profits (date and amount) over the entire period
+
+# Result
+The analysis should line up with the following:
+
+Financial Analysis
+-----------------------------------
+Total Months: 86
+Total: $ 22564198.0
+Average change: $ -8311.11 
+Greatest increase in Profits: Aug-16 $ (1862002.0)
+Greatest decrease in Profits: Feb-14 $ (-1825558.0)
+
+# Reference
+(2020). A. Sweigart, Automate Boring Stuff with Python 2ND Edition: Practical Programming for Total Beginners, San Francisco CA: No Starch Press, Inc.
